@@ -49,7 +49,7 @@ plt.yticks([])
 
 plt.subplot(1, 3, 3)
 plt.imshow(img_filter, cmap='gray')
-plt.title('img_dx')
+plt.title('img_filter')
 plt.xticks([])
 plt.yticks([])
 
